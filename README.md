@@ -1,8 +1,8 @@
 # GTA VI, 2013-2026 — The Longest Loan (museum label meme)
 
-![Competition](https://make.fun/badge/gta6-meme-x-01.svg)
-![Rank](https://make.fun/badge/gta6-meme-x-01/Ardian9712/gta6-meme-x-02/rank.svg)
-![Reward](https://make.fun/badge/gta6-meme-x-01/Ardian9712/gta6-meme-x-02/reward.svg)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Ardian9712/gta6-meme-x-02/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Ardian9712/gta6-meme-x-02/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 ![Build](https://make.fun/badge/gta6-meme-x-01/Ardian9712/gta6-meme-x-02/build.svg)
 
 This meme presents the 13-year wait for GTA VI as a museum exhibition label: on loan from Rockstar Games since 2013, return date unknown—the longest loan in the collection.
