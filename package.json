@@ -1,0 +1,14 @@
+{
+  "name": "gta6-meme-x-02",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A GTA VI museum-label meme preserved byte-for-byte for make.fun.",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "license": "MIT"
+}
